@@ -2,7 +2,9 @@
 
 ## Sales Insights Data Analysis Project
 
-### Here, I have used MySQL to import the data and later did the ETL in Power BI with 3 key dashboards as follows
+### Here, I used MySQL to import the data and later did the ETL in Power BI with 3 key dashboards as follows
+
+
 
 ![image](https://github.com/bhaskart488/DataAnalytics/assets/73813983/14f506ee-c87a-4da9-924d-3469d24a0457)
 
