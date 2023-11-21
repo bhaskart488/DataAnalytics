@@ -1,4 +1,4 @@
-# Data Analytics using PowerBI
+# Data Analytics using Power BI
 
 ## Sales Insights Data Analysis Project
 
